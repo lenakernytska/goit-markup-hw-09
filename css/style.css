@@ -264,6 +264,10 @@ vertical-align: middle;
   margin-bottom: 10px;
  }
 
+ .services {
+   padding-top: 0;
+ }
+
  .services-item:not(:last-child) {
   margin-right: 30px;
 }
